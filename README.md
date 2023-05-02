@@ -12,3 +12,5 @@ La librairie "BiblioTech" souhaite se lancer dans la vente en ligne de livres. L
 
 
 [Diagramme UML](https://lucid.app/lucidchart/67062b6b-607f-43fc-9771-79bcff24e794/edit?viewport_loc=51%2C14%2C1973%2C799%2CHWEp-vi-RSFO&invitationId=inv_1783e08b-1aa6-4e9f-9530-a26e6ffd25f7)
+
+[WireFrame](https://www.figma.com/file/OnWuklUqX9Y4EF4K79nBwv/BiblioTech?type=design&node-id=0%3A1&t=Enzewyk3v5CtOEhu-1)
